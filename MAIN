@@ -1,0 +1,24 @@
+// ==UserScript==
+// @name          Kahoot Bot
+// @namespace     http://tampermonkey.net/
+// @version       1
+// @author        Jamesybond
+// @license       MIT
+// @description   This is my first verion of the kahoot bot. Try not to abuse the cheat as it might result in a ban
+// @match         *://*.kahoot.it/*
+// @match         *://kahoot.it/*
+// @icon          
+// @grant         none
+// ==/UserScript==
+
+ /**
+* @license MIT
+* Copyright (c) Jamesybond 2024
+*
+* You may not reproduce or distribute any code inside this file without the licenser's permission.
+* You may not copy, modify, steal, skid, or recreate any of the code inside this file.
+* You may not under any circumstance republish any code from this file as your own.
+* 
+* ALL TERMS STATED IN THE LINK BELOW APPLY ASWELL
+* https://github.com/Jamesybond/Blooket_hacks/blob/main/LICENSE
+*/
